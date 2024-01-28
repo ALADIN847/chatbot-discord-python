@@ -1,0 +1,44 @@
+-------------------
+	AIO DreamBot
+-------------------
+
+Commands:
+
+w!sizing
+ - display sizing chart for all shoe sizes
+
+w!forex
+ - gets current foreign exchange rate using api
+
+w!ebay
+ - sends views to given ebay link using a queue based system
+
+w!address
+ - allows user to jig address by inputting address in
+
+w!archive
+ - allows user to send channel to archive category
+
+w!delay
+ - computes what delay a user should set for shopify tasks based on number of proxies and tasks
+
+w!gmail
+ - lists out any given amount of jigged gmails
+
+w!sms
+ - allows user to send message to everyone who added phone number
+
+w!addnumber
+ - allows user to add/update phone number in database for twilio
+
+w!snowflake
+ - allows user to find timestamp of when object was created by using the object id
+
+
+Passive Commands:
+
+Twitter Success
+ - posts any given image in success channel to twitter
+
+Keywords
+ - checks every message is array of channels for keywords, if found, it will ping given role
